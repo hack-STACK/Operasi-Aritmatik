@@ -49,13 +49,13 @@ public class Latihan_produktif_RPL {
         System.out.println("Nilai+=2 (ya ini aja sama dengan 75 + 2): " + nilai); // Tampil nilai setelah nambah 2
         
         nilai++; // Tambah 1 ke nilai
-        System.out.println("Nilai++ (ya ini sama aja dengan 77 + 1 wak): " + nilai); // Tampil nilai setelah nambah 1
+        System.out.println("Nilai++ (ya ini sama aja dengan 77 + 1 ): " + nilai); // Tampil nilai setelah nambah 1
         
         nilai *= 2; // Kali nilai dengan 2
-        System.out.println("Nilai *= (ya ini sama aja dengan 78 X 2 wak): " + nilai); // Tampil nilai setelah dikali 2
+        System.out.println("Nilai *= (ya ini sama aja dengan 78 X 2 ): " + nilai); // Tampil nilai setelah dikali 2
         
         nilai %= 32; // Modulus nilai / 32
-        System.out.println("Nilai %= (ya ini agak tricky sih, jadi 156 bagi 32 terus sisa dari bagi itu adalah modulus hehe) : " + nilai); // Tampil hasil modulus
+        System.out.println("Nilai %= (ini agak tricky sih, jadi 156 bagi 32 lalu sisa dari bagi itu adalah modulus ) : " + nilai); // Tampil hasil modulus
         System.out.println("\n");
         System.out.println("3. Perbandingan antara Nilai A dan B : ");
         // Bandingkan nilai a dan b
