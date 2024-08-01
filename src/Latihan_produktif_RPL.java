@@ -33,7 +33,7 @@ public class Latihan_produktif_RPL {
         jaehyun2 = jaehyun2 / 12; // Bagi 8 dengan 12
         System.out.println("Hasil dari pembagian : " + jaehyun2); // Hasil pembagian
         System.out.println("\n");
-        System.out.println("2. Nilai amay :P :");
+        System.out.println("2. Nilai :");
         
         // Cek kondisi nilai
         boolean hasil;
